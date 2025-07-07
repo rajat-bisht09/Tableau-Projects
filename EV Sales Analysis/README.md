@@ -159,4 +159,4 @@ Tableau is used for creating dashboards, calculated fields, parameters and analy
 Thankyou for reading, any suggestions please share with me in LinkedIn :<br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-bisht-a71b21100/)
 
-Live Dashboard Link: <a href = "https://shorturl.at/ftsKX">Click Me</a> 
+Live Dashboard Link: <a href = "https://public.tableau.com/app/profile/rajat.bisht8107/viz/EvSalesAnalysis/FrontPage">Click Me</a> 
